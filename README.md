@@ -37,7 +37,7 @@ Sistema integrado de controle de estoque e simulações técnicas, desenvolvido 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](../../releases/latest/download/hidromaq.apk)
 
 **Para instalar o APK:**
-1. Baixe o arquivo `app-release.apk`
+1. Baixe o arquivo `hidromaq.apk`
 2. Habilite "Fontes desconhecidas" nas configurações do Android
 3. Execute o arquivo APK
 
