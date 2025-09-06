@@ -6,7 +6,7 @@
 
 ## Sobre o Sistema
 
-Sistema integrado de controle de estoque e simulações técnicas, desenvolvido para a empresa Hidromaq Sistemas de Irrigação e Energia Solar.
+Sistema integrado de controle de estoque e simulações de bombeamento de agua e sistemas solares, desenvolvido para a empresa Hidromaq Sistemas de Irrigação e Energia Solar.
 
 ## Principais Funcionalidades
 
