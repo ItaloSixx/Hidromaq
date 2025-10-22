@@ -42,7 +42,7 @@ Sistema integrado de controle de estoque e simulações de bombeamento de agua e
 3. Execute o arquivo APK
 
 ### Versão Windows
-[![Download Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](../../releases/latest/download/hidromaq-v0.0.3.zip)
+[![Download Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](../../releases/latest/download/hidromaq-0.0.3.zip)
 
 **Para instalar no Windows:**
 1. Baixe o arquivo `hidromaq.zip`
